@@ -1,0 +1,10 @@
+civicbackend/
+civic_api/venv/
+**/__pycache__/
+**/*.pyc
+**/*.db
+**/.env
+**/uploads/*
+!**/uploads/.gitkeep
+.git
+.DS_Store
